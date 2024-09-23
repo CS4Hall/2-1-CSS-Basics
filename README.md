@@ -1,7 +1,7 @@
 # 2-1-CSS-Basics <br>
 
 ## Video 
-CSS Basics(https://youtu.be/dC34rfY8Eyk)<-- Make sure to watch this video first
+[CSS Basics](https://youtu.be/dC34rfY8Eyk)<-- Make sure to watch this video first
 
 ## Directions 
 ### Step 1 - Pick a creature <br>
